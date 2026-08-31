@@ -1,6 +1,6 @@
 # Itapema (SC), aluguel por temporada — Seazone
 
-> **Vídeo (3 min):** adicione aqui o link do Google Drive na primeira linha, antes de entregar.
+> **Vídeo (3 min):** https://drive.google.com/drive/folders/1VPPD-rHjdajPdw-maOUW2u7ktDX-CEDv?usp=drive_link
 
 **Recomendação de investimento imobiliário para a Seazone**, construída com o apoio de IA (OpenCode), a partir de dados reais de anúncios de Airbnb e de venda (VivaReal) na cidade de Itapema, Santa Catarina.
 
