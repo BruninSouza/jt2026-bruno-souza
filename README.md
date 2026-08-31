@@ -1,6 +1,6 @@
 # Itapema (SC), aluguel por temporada — Seazone
 
-> **Vídeo (3 min):** https://drive.google.com/drive/folders/1VPPD-rHjdajPdw-maOUW2u7ktDX-CEDv?usp=drive_link
+> **Vídeo (3 min):** https://drive.google.com/file/d/1ddU-Am_eFpRRFJCo6bqE6XecXTj0aPDG/view?usp=drive_link
 
 **Recomendação de investimento imobiliário para a Seazone**, construída com o apoio de IA (OpenCode), a partir de dados reais de anúncios de Airbnb e de venda (VivaReal) na cidade de Itapema, Santa Catarina.
 
@@ -200,9 +200,9 @@ Todas as premissas de negócio ficam em um dicionário no topo de cada script, c
 
 ## 7. Entregas exigidas pelo desafio
 
-- [ ] **Repositório público** com código, leitura, `ai-log/` e esta recomendação escrita.
-- [ ] **Pasta `ai-log/`** com as conversas com a IA exportadas em texto (não vale print).
-- [ ] **Vídeo de até 3 minutos**, com o link na primeira linha deste README.
+- [ x ] **Repositório público** com código, leitura, `ai-log/` e esta recomendação escrita.
+- [ x ] **Pasta `ai-log/`** com as conversas com a IA exportadas em texto (não vale print).
+- [ x ] **Vídeo de até 3 minutos**, com o link na primeira linha deste README.
 
 O detalhe original de todas as regras e prazo está no [`index.html`](index.html) deste repositório.
 
