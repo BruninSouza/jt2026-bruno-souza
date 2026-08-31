@@ -1,0 +1,103 @@
+# ------------------------------------------------------------------
+# Seguranca: credenciais, chaves e arquivos sensiveis
+# ------------------------------------------------------------------
+.env
+.env.*
+*.env
+!*.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.secrets
+*.secret
+credentials*
+*credential*
+*id_rsa*
+*.token
+*token*
+*.auth
+.netrc
+.git-credentials
+# configuracao do agente pode conter chaves de API -> nao subir
+opencode.json
+keys/
+secrets/
+
+# ------------------------------------------------------------------
+# Dados brutos e intermediarios que nao devem ir para o repositorio
+# ------------------------------------------------------------------
+# dados-fonte da analise (podem conter dados pessoais de hosts/usuarios)
+data/
+# resultados/artefatos gerados pelos scripts (podem ser regenerados)
+outputs/
+
+# ------------------------------------------------------------------
+# Python
+# ------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.mypy_cache/
+.pyre_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+coverage.xml
+.hypothesis/
+
+# ------------------------------------------------------------------
+# Ambiente e dependencias
+# ------------------------------------------------------------------
+.venv/
+venv/
+env/
+ENV/
+virtualenv/
+.venv/*
+!requirements.txt
+!environment.yml
+!pyproject.toml
+
+# ------------------------------------------------------------------
+# IDE e editores
+# ------------------------------------------------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# ------------------------------------------------------------------
+# Jupyter / notebooks
+# ------------------------------------------------------------------
+.ipynb_checkpoints/
+checkpoints/
+
+# ------------------------------------------------------------------
+# Windows / SO
+# ------------------------------------------------------------------
+Thumbs.db
+Desktop.ini
+nul
+nul.txt

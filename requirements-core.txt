@@ -1,0 +1,9 @@
+# Dependencias essenciais para rodar a analise
+# (versao minima; o requirements.txt completo e o snapshot do ambiente usado)
+pandas>=2.2
+numpy>=1.26
+statsmodels>=0.14
+matplotlib>=3.8
+nbformat>=5.10
+jupyter
+nbconvert
